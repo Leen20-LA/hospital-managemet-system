@@ -12,15 +12,15 @@ A Java-based console application for managing hospital surgeries, doctor appoint
  - NetBeans IDE
     
 ## Features
-  -View all surgeons – Display a list of all surgeons with their specialties and doctors.
-  -Make a booking – Choose a surgeon, doctor, and available appointment slot to book for a patient.
-  -Check current booking – View the details of your most recent booking.
-  -Save and load data – Store surgeon information in a text file and read it back when needed.
+ - View all surgeons – Display a list of all surgeons with their specialties and doctors.
+ - Make a booking – Choose a surgeon, doctor, and available appointment slot to book for a patient.
+ - Check current booking – View the details of your most recent booking.
+ - Save and load data – Store surgeon information in a text file and read it back when needed.
   
 ## My Contribution
- -Designed and implemented the core classes (Person, Patient, Doctor, Appointment). 
- -Worked on appointment availability and the logic for displaying available slots.
- -Created the BookAndAppointment interface to manage appointment booking functionality.
+ - Designed and implemented the core classes (Person, Patient, Doctor, Appointment). 
+ - Worked on appointment availability and the logic for displaying available slots.
+ - Created the BookAndAppointment interface to manage appointment booking functionality.
  
 ## How to Run
  1. Open the project in NetBeans.
