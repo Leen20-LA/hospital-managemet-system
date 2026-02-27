@@ -3,7 +3,7 @@
 ## Description
 A Java-based console application for managing hospital surgeries, doctor appointments, and patient bookings. The system allows users to view surgeons, doctors, appointments, make bookings, and save/load data from text files.It also includes a simple GUI for patient registration.
 
-(This project was developed as a team assignment for a university course.)
+(This project was developed as a team project for a university course.)
 
 ## Technologies Used
  - Java
